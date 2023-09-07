@@ -1,8 +1,8 @@
 ---
-title: Projects
+title: Seminars
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: Seminars
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
