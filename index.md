@@ -3,7 +3,7 @@
 
 # Dynamics at Sustech
 
-An engaging 1-3 sentence description of your lab.
+We have an active research group in dynamical systems at Sustech
 
 {% include section.html %}
 
