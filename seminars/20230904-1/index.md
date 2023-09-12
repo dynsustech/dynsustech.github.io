@@ -2,9 +2,7 @@
 
 title: poster
 description: Our lab has received international praise for our contributions to science.
-nav:
-  order: 1
-  tooltip: Praise and laurels
+
 header: images/Lore.jpg
 footer: images/Lore.jpg
 header-dark: false
