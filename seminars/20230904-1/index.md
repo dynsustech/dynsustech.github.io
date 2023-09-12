@@ -11,4 +11,4 @@ redirect_from:
   - accolades
 ---
 
-Page content.
+Hello
