@@ -1,18 +1,18 @@
 # site properties and page defaults
-title: dynsustech
+title: Dynamics at Sustech
 subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+description: We have an active research group in dynamical systems at Sustech
 header: images/Lore.jpg
 footer: images/Lore.jpg
 
 # site social media and other links
 links:
-  email: contact@dynsustech.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: dynsustech
-  twitter: dynsustech
-  youtube: dynsustech
+  #email: contact@dynsustech.com
+  #orcid: 0000-0001-8713-9213
+  #google-scholar: ETJoidYAAAAJ
+  #github: dynsustech
+  #twitter: dynsustech
+  #youtube: dynsustech
 
 ### jekyll settings
 
