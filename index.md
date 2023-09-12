@@ -1,7 +1,7 @@
 ---
 ---
 
-# dynsustech's Website
+# Dynamics at Sustech
 
 An engaging 1-3 sentence description of your lab.
 
