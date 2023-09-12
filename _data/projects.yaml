@@ -2,7 +2,7 @@
   subtitle: Prof Karla Diaz Ordaz
   group: featured
   image: files/20230904-1.jpg
-  link: https://dynsustech.github.io/seminar/20230904-1/
+  link: https://dynsustech.github.io/seminars/20230904-1/
   description: Most scientific questions are about establishing cause-effect relationships. While machine learning has received a lot of attention in recent years, especially when traditional statistical models arc challenging, the predictiontools from the machine learning literature cannot be readily used for causal inference. In the last decade, major innovations have taken placeincorporating machine learning tools into estimators for causal quantities, which helps with model misspecification and variable selection. In this talk, I will review some of these developments. I will illustrate why "direct" machine learning estimation methods should be avoided. I will then outline a strategy for constructing statistical estimators which result in valid inference even when using machine learning.
   tags:
     - resource
