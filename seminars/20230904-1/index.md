@@ -1,1 +1,1 @@
-![poster](files/20230904-1.jpg)
+![poster](20230904-1.jpg)
