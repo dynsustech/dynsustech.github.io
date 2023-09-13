@@ -5,12 +5,11 @@ nav:
   tooltip: Seminars
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-wrench" %}Seminars
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We routinely hold our seminars on Monday and Thursday. The titles, abstracts and other details will be listed below.
 
-{% include tags.html tags="publication, resource, website" %}
+{% include tags.html tags="" %}
 
 {% include search-info.html %}
 
