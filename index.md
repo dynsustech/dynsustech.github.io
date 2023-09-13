@@ -1,9 +1,9 @@
 ---
 ---
 
-# Dynamics at Sustech
+# Dynamics at SUSTech
 
-We have an active research group in dynamical systems at Sustech
+Here at [SUSTech](https://www.sustech.edu.cn/), we have a strong and active group working in the broad spectrum of disciplines related to the theory of Dynamical Systems
 
 {% include section.html %}
 
