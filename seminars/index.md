@@ -15,7 +15,7 @@ We routinely hold our seminars on Monday and Thursday. The titles, abstracts and
 
 {% include section.html %}
 
-## Featured
+## Recent
 
 {% include list.html component="card" data="projects" filters="group: featured" %}
 
