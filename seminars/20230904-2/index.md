@@ -1,8 +1,6 @@
 ---
 
 title: poster
-description: Our lab has received international praise for our contributions to science.
-
 header: images/sustech.jpg
 footer: images/sustech.jpg
 header-dark: false
