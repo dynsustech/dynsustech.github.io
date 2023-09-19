@@ -32,15 +32,15 @@ links:
 - Universidad de la Republica, Uruguay, Teaching Assistant, 1994-2000
 - Universidad Nacional de Rosario, Argentina, Teaching Assistant, 1992-1994
 
-Honors and Awards:
+# Honors and Awards:
 
-Vice-president of the Organization for Women in Science for the Developing World (UNESCO), 2016
+- Vice-president of the Organization for Women in Science for the Developing World (UNESCO), 2016
 
-Evaluator for the Prize “For Women in Science” L’Oreal-Unesco, 2011
+- Evaluator for the Prize “For Women in Science” L’Oreal-Unesco, 2011
 
-Buenos Aires Stock Exchange Foundation Prize, 1992
+- Buenos Aires Stock Exchange Foundation Prize, 1992
 
-Selected 5 publications:
+# Selected 5 publications:
 
 1. (with P. Carrasco, F. Rodriguez Hertz and R. Ures) Partially hyperbolic dynamics in dimension 3, to appear in Ergodic Theory and Dynamical Systems
 
