@@ -3,7 +3,7 @@
 # team member roles
 
 prof:
-  icon: fa-solid fa-graduation-cap
+  icon: 
   description: Professor
 
 pi:
