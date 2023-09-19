@@ -7,27 +7,27 @@ prof:
   description: Professor
 
 pi:
-  icon: fa-solid fa-microscope
+  icon: 
   description: Principal Investigator
 
 postdoc:
-  icon: fa-solid fa-glasses
+  icon: 
   description: Postdoctoral Researcher
 
 phd:
-  icon: fa-solid fa-graduation-cap
+  icon: 
   description: PhD Student
 
 undergrad:
-  icon: fa-solid fa-user-graduate
+  icon: 
   description: Undergraduate Student
 
 programmer:
-  icon: fa-solid fa-code
+  icon: 
   description: Programmer
 
 mascot:
-  icon: fa-solid fa-dog
+  icon: 
   description: Mascot
 
 # general
