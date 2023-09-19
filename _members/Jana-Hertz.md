@@ -1,7 +1,7 @@
 ---
 name: Jana Hertz
 image: images/Jana.jpg
-role: pi
+role: prof
 aliases:
   - J. Hertz
   - J Hertz
