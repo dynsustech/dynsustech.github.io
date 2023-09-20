@@ -1,7 +1,7 @@
 ---
 name: Pedro Salomao
 image: images/Pedro.jpg
-role: porf
+role: prof
 aliases:
   - P. Saloomao
   - P Salomao
