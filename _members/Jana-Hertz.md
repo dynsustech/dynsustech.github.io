@@ -8,6 +8,7 @@ aliases:
 links:
   #home-page: https://janesmith.com
   orcid: 0000-0002-7683-1869
+  email: rhertz@sustech.edu.cn
 ---
 
 # Research Interests
