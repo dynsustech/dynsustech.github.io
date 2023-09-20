@@ -1,7 +1,7 @@
 ---
 name: Ziqiang Feng
 image: images/photo.jpg
-role: doc
+role: phd
 aliases:
   - Z. Feng
   - Z Feng
