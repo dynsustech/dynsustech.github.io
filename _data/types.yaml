@@ -2,6 +2,10 @@
 
 # team member roles
 
+vsprof:
+  icon: 
+  description: Visiting Assistant Professor
+
 prof:
   icon: 
   description: Professor
