@@ -8,6 +8,7 @@ aliases:
 links:
   #home-page: https://janesmith.com
   orcid: 0000-0003-3345-2380
+  email: psalomao@sustech.edu.cn
 ---
 
 Salomao's research interests are largely toward understanding global properties of conservative dynamical systems, utilizing recently developed methods in symplectic topology. This research area has now been called Symplectic Dynamics. Salomão has been using pseudo-holomorphic curves to study the existence of periodic orbits and finite energy foliations, with applications in celestial mechanics
