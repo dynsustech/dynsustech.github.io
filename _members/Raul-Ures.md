@@ -1,6 +1,6 @@
 ---
 name: Raul Ures
-image: images/Raul.jpg
+image: images/Raul.jpeg
 role: prof
 aliases:
   - R. Ures
