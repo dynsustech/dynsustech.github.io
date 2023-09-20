@@ -2,6 +2,9 @@
 
 # team member roles
 
+mas:
+  icon: 
+  description: Master Student
 vsprof:
   icon: 
   description: Visiting Assistant Professor
