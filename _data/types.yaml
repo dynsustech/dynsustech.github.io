@@ -2,9 +2,14 @@
 
 # team member roles
 
+vsch:
+  icon: 
+  description: Visiting Scholar
+
 mas:
   icon: 
   description: Master Student
+  
 vsprof:
   icon: 
   description: Visiting Assistant Professor
