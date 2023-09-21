@@ -12,7 +12,11 @@ nav:
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: prof" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!prof$)" %}
+{% include list.html data="members" component="portrait" filters="role: vsprof" %}
+{% include list.html data="members" component="portrait" filters="role: vsch" %}
+{% include list.html data="members" component="portrait" filters="role: postdoc" %}
+{% include list.html data="members" component="portrait" filters="role: phd" %}
+{% include list.html data="members" component="portrait" filters="role: mas" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
@@ -21,11 +25,6 @@ nav:
 {% include section.html %}
 
 {% capture content %}
-
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}
