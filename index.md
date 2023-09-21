@@ -1,7 +1,7 @@
 ---
 ---
 
-# Dynamics at SUSTech
+# SUSTech Dynamics
 
 Here at [SUSTech](https://www.sustech.edu.cn/), we have a strong and active group working in several disciplines related to the theory of Dynamical Systems, including Ergodic Theory, Partially Hyperbolic Dynamics and Symplectic Dynamics. At present, we have 4 professors (Jana Hertz, Raul Ures, Pedro Salomão and Yiwei Zhang), working with Postdocs, visiting scholars, PhD. students, Master students and undergraduates. We hold [seminars](https://dynsustech.github.io/seminars/) regularly, inviting mathematicians from all over the world.
 
@@ -15,7 +15,6 @@ Here at [SUSTech](https://www.sustech.edu.cn/), we have a strong and active grou
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {%
   include button.html
@@ -38,12 +37,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="seminars"
+  text="Browse our seminars"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -54,8 +53,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
+  link="seminars"
+  title="Our Seminars"
   flip=true
   style="bare"
   text=text
@@ -63,12 +62,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="Meet our Group members"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
