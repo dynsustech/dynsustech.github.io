@@ -12,7 +12,7 @@ nav:
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: prof" %}
-{% include list.html data="members" component="portrait" filters="role: vsprof" %}
+
 {% include list.html data="members" component="portrait" filters="role: vsch" %}
 {% include list.html data="members" component="portrait" filters="role: postdoc" %}
 {% include list.html data="members" component="portrait" filters="role: phd" %}
