@@ -1,11 +1,11 @@
 ---
-name: Elias Ferraz Rego
+name: Elias Rego
 image: images/photo.jpg
 role: postdoc
 aliases:
-  - E.F. Rego
-  - E F Rego
+  - E. Rego
+  - E Rego
 links:
   #home-page: https://janesmith.com
-  #orcid: 0000-0001-8713-9213
+  orcid: 0000-0002-4593-6414
 ---
