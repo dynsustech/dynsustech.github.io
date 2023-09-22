@@ -1,82 +1,302 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1090/tran/8590
+  title: "Robust minimality of strong foliations for DA diffeomorphisms: \U0001D450\
+    \U0001D462-volume expansion and new examples"
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Jana Rodriguez Hertz
+  - "Ra\xFAl Ures"
+  - Jiagang Yang
+  publisher: Transactions of the American Mathematical Society
+  date: '2022-02-03'
+  link: https://doi.org/gsr54w
+  orcid: 0000-0002-3262-8922
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1112/jlms.12399
+  title: Maximal entropy measures of diffeomorphisms of circle fiber bundles
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - "Ra\xFAl Ures"
+  - Marcelo Viana
+  - Jiagang Yang
+  publisher: Journal of the London Mathematical Society
+  date: '2020-10-28'
+  link: https://doi.org/gsr54x
+  orcid: 0000-0002-3262-8922
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.3934/jmd.2020012
+  title: Ergodicity and partial hyperbolicity on Seifert manifolds
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Andy Hammerlindl
+  - Jana Rodriguez Hertz
+  - "Ra\xFAl Ures"
+  publisher: Journal of Modern Dynamics
+  date: '2020-01-01'
+  link: https://doi.org/gsr54z
+  orcid: 0000-0002-3262-8922
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1007/978-3-030-16833-9_13
+  title: On the Three-Legged Accessibility Property
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Jana Rodriguez Hertz
+  - "Ra\xFAl Ures"
+  publisher: New Trends in One-Dimensional Dynamics
+  date: '2019-01-01'
+  link: https://doi.org/gsr542
+  orcid: 0000-0002-3262-8922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-85094409194
+  title: 'Robust minimality of strong foliations for da diffeomorphisms: CU-volume
+    expansion and new examples'
+  publisher: arXiv
+  date: '2022-09-16'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85094409194&partnerID=MN8TOARS
+  orcid: 0000-0002-3262-8922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/etds.2016.33
+  title: On the non-robustness of intermingled basins
+  authors:
+  - "RA\xDAL URES"
+  - "CARLOS H. V\xC1SQUEZ"
+  publisher: Ergodic Theory and Dynamical Systems
+  date: '2016-07-04'
+  link: https://doi.org/gsr543
+  orcid: 0000-0002-3262-8922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/etds.2016.142
+  title: Partially hyperbolic dynamics in dimension three
+  authors:
+  - PABLO D. CARRASCO
+  - FEDERICO RODRIGUEZ-HERTZ
+  - JANA RODRIGUEZ-HERTZ
+  - "RA\xDAL URES"
+  publisher: Ergodic Theory and Dynamical Systems
+  date: '2017-05-09'
+  link: https://doi.org/gfjrgh
+  orcid: 0000-0002-3262-8922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.anihpc.2015.03.003
+  title: A non-dynamically coherent example on \( T^{3} \)
+  authors:
+  - M.A. Rodriguez Hertz
+  - R. Ures
+  - F. Rodriguez Hertz
+  publisher: "Annales de l'Institut Henri Poincar\xE9 C, Analyse non lin\xE9aire"
+  date: '2016-08-01'
+  link: https://doi.org/gsr544
+  orcid: 0000-0002-3262-8922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4310/MRL.2016.v23.n6.a11
+  title: Center-unstable foliations do not have compact leaves
+  authors:
+  - F. Rodriguez Hertz
+  - J. Rodriguez Hertz
+  - R. Ures
+  publisher: Mathematical Research Letters
+  date: '2016-01-01'
+  link: https://doi.org/gsr545
+  orcid: 0000-0002-3262-8922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1142/S0219199713500387
+  title: Ergodicity and partial hyperbolicity on the 3-torus
+  authors:
+  - Andy Hammerlindl
+  - "Ra\xFAl Ures"
+  publisher: Communications in Contemporary Mathematics
+  date: '2014-07-14'
+  link: https://doi.org/gsr546
+  orcid: 0000-0002-3262-8922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1090/S0002-9939-2011-11040-2
+  title: Intrinsic ergodicity of partially hyperbolic diffeomorphisms with a hyperbolic
+    linear part
+  authors:
+  - "Ra\xFAl Ures"
+  publisher: Proceedings of the American Mathematical Society
+  date: '2011-10-07'
+  link: https://doi.org/b72sv3
+  orcid: 0000-0002-3262-8922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/S0143385711000757
+  title: Maximizing measures for partially hyperbolic systems with compact center
+    leaves
+  authors:
+  - F. RODRIGUEZ HERTZ
+  - M. A. RODRIGUEZ HERTZ
+  - A. TAHZIBI
+  - R. URES
+  publisher: Ergodic Theory and Dynamical Systems
+  date: '2011-12-05'
+  link: https://doi.org/dwzt2h
+  orcid: 0000-0002-3262-8922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1215/00127094-1444314
+  title: New criteria for ergodicity and nonuniform hyperbolicity
+  authors:
+  - F. Rodriguez Hertz
+  - M. A. Rodriguez Hertz
+  - A. Tahzibi
+  - R. Ures
+  publisher: Duke Mathematical Journal
+  date: '2011-12-01'
+  link: https://doi.org/djtbv5
+  orcid: 0000-0002-3262-8922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3934/jmd.2011.5.185
+  title: Tori with hyperbolic dynamics in 3-manifolds
+  authors:
+  - Federico Rodriguez Hertz
+  - "Mar\xEDa Alejandra Rodriguez Hertz"
+  - "Ra\xFAl Ures"
+  publisher: Journal of Modern Dynamics
+  date: '2011-01-01'
+  link: https://doi.org/cfjkbg
+  orcid: 0000-0002-3262-8922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00220-011-1275-0
+  title: Uniqueness of SRB Measures for Transitive Diffeomorphisms on Surfaces
+  authors:
+  - F. Rodriguez Hertz
+  - M. A. Rodriguez Hertz
+  - A. Tahzibi
+  - R. Ures
+  publisher: Communications in Mathematical Physics
+  date: '2011-06-05'
+  link: https://doi.org/bx9brt
+  orcid: 0000-0002-3262-8922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/0951-7715/23/2/001
+  title: Creation of blenders in the conservative setting
+  authors:
+  - F Rodriguez Hertz
+  - M A Rodriguez Hertz
+  - A Tahzibi
+  - R Ures
+  publisher: Nonlinearity
+  date: '2010-01-11'
+  link: https://doi.org/dp6gt9
+  orcid: 0000-0002-3262-8922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00222-007-0100-z
+  title: Accessibility and stable ergodicity for partially hyperbolic diffeomorphisms
+    with 1D-center bundle
+  authors:
+  - F. Rodriguez Hertz
+  - M.A. Rodriguez Hertz
+  - R. Ures
+  publisher: Inventiones mathematicae
+  date: '2008-01-11'
+  link: https://doi.org/c6ggzx
+  orcid: 0000-0002-3262-8922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-53949101558
+  title: Density of accessibility for partially hyperbolic diffeomorphisms with one-dimensional
+    center
+  publisher: Discrete and Continuous Dynamical Systems
+  date: '2022-09-16'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-53949101558&partnerID=MN8TOARS
+  orcid: 0000-0002-3262-8922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-64549101938
+  title: A criterion for ergodicity of non-uniformly hyperbolic diffeomorphisms
+  publisher: Electronic Research Announcements of the American Mathematical Society
+  date: '2022-09-16'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-64549101938&partnerID=MN8TOARS
+  orcid: 0000-0002-3262-8922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-33747097768
+  title: On basic pieces of axiom a diffeomorphisms isotopic to pseudoanosov maps
+  publisher: Asterisque
+  date: '2022-09-16'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-33747097768&partnerID=MN8TOARS
+  orcid: 0000-0002-3262-8922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/S0143385702000500
+  title: 'Critical saddle-node cycles: Hausdorff dimension and persistence of tangencies'
+  authors:
+  - "LORENZO J. D\xCDAZ"
+  - RAUL URES
+  publisher: Ergodic Theory and Dynamical Systems
+  date: '2002-08-01'
+  link: https://doi.org/c8385q
+  orcid: 0000-0002-3262-8922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/S1474748002000142
+  title: MINIMALITY OF STRONG STABLE AND UNSTABLE FOLIATIONS FOR PARTIALLY HYPERBOLIC
+    DIFFEOMORPHISMS
+  authors:
+  - Christian Bonatti
+  - "Lorenzo J. D\xEDaz"
+  - "Ra\xFAl Ures"
+  publisher: Journal of the Institute of Mathematics of Jussieu
+  date: '2002-10-01'
+  link: https://doi.org/c33k4c
+  orcid: 0000-0002-3262-8922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S1631-073X(02)02260-4
+  title: On manifolds supporting quasi-Anosov diffeomorphisms
+  authors:
+  - Jana Rodriguez Hertz
+  - "Ra\xFAl Ures"
+  - "Jos\xE9 L Vieitez"
+  publisher: Comptes Rendus Mathematique
+  date: '2002-01-01'
+  link: https://doi.org/c6qjtb
+  orcid: 0000-0002-3262-8922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/BF02392945
+  title: Partial hyperbolicity and robust transitivity
+  authors:
+  - "Lorenzo J. D\xEDaz"
+  - Enrique R. Pujals
+  - "Ra\xFAl Ures"
+  publisher: Acta Mathematica
+  date: '1999-01-01'
+  link: https://doi.org/c9d9kg
+  orcid: 0000-0002-3262-8922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/S0143385700009895
+  title: "On the approximation of H\xE9non-like attractors by homoclinic tangencies"
+  authors:
+  - "Ra\xFAl Ures"
+  publisher: Ergodic Theory and Dynamical Systems
+  date: '1995-12-01'
+  link: https://doi.org/d2znmq
+  orcid: 0000-0002-3262-8922
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0294-1449(16)30172-X
+  title: Persistent homoclinic tangencies and the unfolding of cycles
+  authors:
+  - "Lorenzo J. D\xEDaz"
+  - "Ra\xFAl Ures"
+  publisher: "Annales de l'Institut Henri Poincar\xE9 C, Analyse non lin\xE9aire"
+  date: '1994-12-01'
+  link: https://doi.org/gsr547
+  orcid: 0000-0002-3262-8922
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -92,9 +312,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -111,21 +328,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
