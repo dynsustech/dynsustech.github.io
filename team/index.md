@@ -21,7 +21,11 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Visitors
 
+{% include list.html data="members" component="portrait" filters="role: vsdpro" %}
+
 {% include list.html data="members" component="portrait" filters="role: vsch" %}
+
+{% include list.html data="members" component="portrait" filters="role: vss" %}
 
 {% include section.html background="images/sustech.jpg" dark=true %}
 
