@@ -13,10 +13,15 @@ nav:
 
 {% include list.html data="members" component="portrait" filters="role: prof" %}
 
-{% include list.html data="members" component="portrait" filters="role: vsch" %}
 {% include list.html data="members" component="portrait" filters="role: postdoc" %}
+
 {% include list.html data="members" component="portrait" filters="role: phd" %}
+
 {% include list.html data="members" component="portrait" filters="role: mas" %}
+
+# {% include icon.html icon="fa-solid fa-users" %}Visitors
+
+{% include list.html data="members" component="portrait" filters="role: vsch" %}
 
 {% include section.html background="images/sustech.jpg" dark=true %}
 
