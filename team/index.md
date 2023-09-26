@@ -29,5 +29,3 @@ nav:
 
 {% include section.html background="images/sustech.jpg" dark=true %}
 
-
-{% include grid.html style="square" content=content %}
