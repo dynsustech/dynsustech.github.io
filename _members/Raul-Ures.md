@@ -16,7 +16,7 @@ links:
 Dynamical Systems and Ergodic Theory
 
 
-#Education
+# Education
 
 - Ph.D. 1993 IMPA, Rio de Janeiro, Brazil
 - B. S. 1990 University of the Republic, Uruguay
