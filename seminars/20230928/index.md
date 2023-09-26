@@ -12,4 +12,5 @@ redirect_from:
 ---
 
 September 28, 2023, 14.00-16.00, 233B, International Center for Mathematics.
+
 ![poster](20230928.jpg)
