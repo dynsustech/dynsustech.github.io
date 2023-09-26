@@ -11,3 +11,4 @@ redirect_from:
   - accolades
 ---
 
+![poster](20230928.jpg)
