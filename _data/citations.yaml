@@ -12,3 +12,109 @@
   link: https://doi.org/gsr54w
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1112/jlms.12399
+  title: Maximal entropy measures of diffeomorphisms of circle fiber bundles
+  authors:
+  - "Ra\xFAl Ures"
+  - Marcelo Viana
+  - Jiagang Yang
+  publisher: Journal of the London Mathematical Society
+  date: '2020-10-28'
+  link: https://doi.org/gsr54x
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3934/jmd.2020012
+  title: Ergodicity and partial hyperbolicity on Seifert manifolds
+  authors:
+  - Andy Hammerlindl
+  - Jana Rodriguez Hertz
+  - "Ra\xFAl Ures"
+  publisher: Journal of Modern Dynamics
+  date: '2020-01-01'
+  link: https://doi.org/gsr54z
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-030-16833-9_13
+  title: On the Three-Legged Accessibility Property
+  authors:
+  - Jana Rodriguez Hertz
+  - "Ra\xFAl Ures"
+  publisher: New Trends in One-Dimensional Dynamics
+  date: '2019-01-01'
+  link: https://doi.org/gsr542
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1017/etds.2016.33
+  title: On the non-robustness of intermingled basins
+  authors:
+  - "RA\xDAL URES"
+  - "CARLOS H. V\xC1SQUEZ"
+  publisher: Ergodic Theory and Dynamical Systems
+  date: '2016-07-04'
+  link: https://doi.org/gsr543
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1017/etds.2016.142
+  title: Partially hyperbolic dynamics in dimension three
+  authors:
+  - PABLO D. CARRASCO
+  - FEDERICO RODRIGUEZ-HERTZ
+  - JANA RODRIGUEZ-HERTZ
+  - "RA\xDAL URES"
+  publisher: Ergodic Theory and Dynamical Systems
+  date: '2017-05-09'
+  link: https://doi.org/gfjrgh
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.anihpc.2015.03.003
+  title: A non-dynamically coherent example on \( T^{3} \)
+  authors:
+  - M.A. Rodriguez Hertz
+  - R. Ures
+  - F. Rodriguez Hertz
+  publisher: "Annales de l'Institut Henri Poincar\xE9 C, Analyse non lin\xE9aire"
+  date: '2016-08-01'
+  link: https://doi.org/gsr544
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.4310/MRL.2016.v23.n6.a11
+  title: Center-unstable foliations do not have compact leaves
+  authors:
+  - F. Rodriguez Hertz
+  - J. Rodriguez Hertz
+  - R. Ures
+  publisher: Mathematical Research Letters
+  date: '2016-01-01'
+  link: https://doi.org/gsr545
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s10884-020-09884-x
+  title: Stable Minimality of Expanding Foliations
+  authors:
+  - "Gabriel N\xFA\xF1ez"
+  - "Jana Rodriguez\_Hertz"
+  publisher: Journal of Dynamics and Differential Equations
+  date: '2020-08-25'
+  link: https://doi.org/gssj78
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3934/dcds.2020097
+  title: Minimality and stable Bernoulliness in dimension 3
+  authors:
+  - "Gabriel N\xFA\xF1ez"
+  - Jana Rodriguez Hertz
+  publisher: Discrete &amp; Continuous Dynamical Systems - A
+  date: '2020-01-01'
+  link: https://doi.org/gssj79
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3934/dcds.2020196
+  title: Structure of accessibility classes
+  authors:
+  - Jana Rodriguez Hertz
+  - "Carlos H. V\xE1squez"
+  publisher: Discrete &amp; Continuous Dynamical Systems - A
+  date: '2020-01-01'
+  link: https://doi.org/gssj8b
+  plugin: sources.py
+  file: sources.yaml
