@@ -7,6 +7,7 @@ Here at [SUSTech](https://www.sustech.edu.cn/), we have a strong and active grou
 
 ## News
 
+- First Intersections Seminar this semester! Title: [Rigidity of Lyapunov exponents for geodesic flow](https://dynsustech.github.io/seminars/20230928/), speaker: Prof. Sergio Romaña. Time & location: September 28, 2023, 14.00-16.00, 233B, International Center for Mathematics.
 
 
 {% include section.html %}
