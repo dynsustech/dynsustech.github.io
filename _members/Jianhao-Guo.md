@@ -1,7 +1,7 @@
 ---
 name: Jianhao Guo
 image: images/photo.jpg
-role: postdoc
+role: ra
 aliases:
   - J. Guo
   - J Guo
