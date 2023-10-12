@@ -3,7 +3,7 @@
 
 # SUSTech Dynamics
 
-Here at [SUSTech](https://www.sustech.edu.cn/), we have a strong and active group working in several disciplines related to the theory of Dynamical Systems, including Ergodic Theory, Partially Hyperbolic Dynamics and Symplectic Dynamics. At present, we have 4 professors ([Jana Hertz](https://dynsustech.github.io/members/Jana-Hertz.html), [Raul Ures](https://dynsustech.github.io/members/Pedro-Salomao.html), [Pedro Salomão](https://dynsustech.github.io/members/Raul-Ures.html) and [Yiwei Zhang](https://dynsustech.github.io/members/Raul-Ures.html)), working with Postdocs, visiting scholars, PhD. students, Master students and undergraduates. We hold [seminars](https://dynsustech.github.io/seminars/) regularly, inviting mathematicians from all over the world.
+Here at [SUSTech](https://www.sustech.edu.cn/), we have a strong and active group working in several disciplines related to the theory of Dynamical Systems, including Ergodic Theory, Partially Hyperbolic Dynamics and Symplectic Dynamics. At present, we have 4 professors ([Jana Hertz](https://dynsustech.github.io/members/Jana-Hertz.html), [Raul Ures](https://dynsustech.github.io/members/Raul-Ures.html), [Pedro Salomão](https://dynsustech.github.io/members/Pedro-Salomao.html) and [Yiwei Zhang](https://dynsustech.github.io/members/Raul-Ures.html)), working with Postdocs, visiting scholars, PhD. students, Master students and undergraduates. We hold [seminars](https://dynsustech.github.io/seminars/) regularly, inviting mathematicians from all over the world.
 
 ## News
 
