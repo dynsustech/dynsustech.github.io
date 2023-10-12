@@ -8,4 +8,5 @@ aliases:
 links:
   #home-page: https://janesmith.com
   #orcid: 0000-0002-4593-6414
+  email: guojh3@mail.sustech.edu.cn
 ---
