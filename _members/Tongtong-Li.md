@@ -1,7 +1,7 @@
 ---
 name: Tongtong Li
 image: images/photo.jpg
-role: postdoc
+role: ra
 aliases:
   - T. Li
   - T Li
