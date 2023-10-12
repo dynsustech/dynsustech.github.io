@@ -2,6 +2,9 @@
 
 # team member roles
 
+ra:
+  description: Research Assistant
+
 vsdpro:
   icon:
   description: Visiting Distinguished Professor
