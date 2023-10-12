@@ -27,5 +27,9 @@ nav:
 
 {% include list.html data="members" component="portrait" filters="role: vss" %}
 
-{% include section.html background="images/sustech.jpg" dark=true %}
+# {% include icon.html icon="fa-solid fa-users" %}Assistants
 
+{% include list.html data="members" component="portrait" filters="role: ra" %}
+
+
+{% include section.html background="images/sustech.jpg" dark=true %}
