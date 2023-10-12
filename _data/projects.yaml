@@ -1,6 +1,16 @@
+- title: Transverse foliations for unbounded contact-type energy surfaces in R^4
+  subtitle: Pedro Salomão
+  group: featured
+  image: seminars/20231012/20231012.jpg
+  link: https://dynsustech.github.io/seminars/20231012/
+  description: Oct. 12, 2023, 14.00-16.00, 233B, International Center for Mathematics.
+  tags:
+
+
+
 - title: Rigidity of Lyapunov exponents for geodesic flow
   subtitle: Sergio Romaña
-  group: featured
+  group: 
   image: seminars/20230928/20230928.jpg
   link: https://dynsustech.github.io/seminars/20230928/
   description: September 28, 2023, 14.00-16.00, 233B, International Center for Mathematics.
@@ -9,7 +19,7 @@
 
 - title: Optimal properties of real numbers and their digit expansions
   subtitle: Prof Oliver Jenkinson
-  group: featured
+  group: 
   image: seminars/20230914/20230914.jpg
   link: https://dynsustech.github.io/seminars/20230914/
   description: September 14 2023, 14.00-15.00 M1001, College of Science Building
