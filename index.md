@@ -7,9 +7,11 @@ Here at [SUSTech](https://www.sustech.edu.cn/), we have a strong and active grou
 
 ## News
 
-- First Intersections Seminar this semester! Title: [Rigidity of Lyapunov exponents for geodesic flow](https://dynsustech.github.io/seminars/20230928/), speaker: Prof. Sergio Romaña. Time & location: September 28, 2023, 14.00-16.00, 233B, International Center for Mathematics.
+- Dynamical Systems Seminar: [Some Dynamical and Topological Invariants for symplectic diffeomorphisms](https://dynsustech.github.io/seminars/20231018/). Speaker: Zhihong Xia. Time & location: Oct. 18, 2023, 15.00-16.00, M1001, College of Science Building
 
-- Intersection Seminar: [Transverse foliations for unbounded contact-type energy surfaces in R^4](https://dynsustech.github.io/seminars/20231012/). Speaker: Pedro Salomão. Oct. 12, 2023.
+- Intersection Seminar: [Transverse foliations for unbounded contact-type energy surfaces in R^4](https://dynsustech.github.io/seminars/20231012/). Speaker: Pedro Salomão. Oct. 12, 2023. Time & location: Oct. 12, 2023, 14.00-16.00, 233B, International Center for Mathematics.
+  
+- First Intersections Seminar this semester! Title: [Rigidity of Lyapunov exponents for geodesic flow](https://dynsustech.github.io/seminars/20230928/), speaker: Prof. Sergio Romaña. Time & location: September 28, 2023, 14.00-16.00, 233B, International Center for Mathematics.
 
 
 {% include section.html %}
