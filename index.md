@@ -7,6 +7,12 @@ Here at [SUSTech](https://www.sustech.edu.cn/), we have a strong and active grou
 
 ## News
 
+- # [2nd Joint Meeting in Mathematics (Hong Kong University-Shenzhen International Center for Mathematics)](https://dynsustech.github.io/seminars/2ndjointmeeting/)
+  Venue: SICM Lecture Hall（Room 240A,Taizhou Hall）
+
+- Intersection Seminar: [Dynamical Lagrange and Markov spectra](https://dynsustech.github.io/seminars/20231019/). Speaker: Harold Erazo
+Time & location: Oct. 19, 2023, 15.00-16.00, M4009, College of Science Building
+
 - Dynamical Systems Seminar: [Some Dynamical and Topological Invariants for symplectic diffeomorphisms](https://dynsustech.github.io/seminars/20231018/). Speaker: Zhihong Xia. Time & location: Oct. 18, 2023, 15.00-16.00, M1001, College of Science Building
 
 - Intersection Seminar: [Transverse foliations for unbounded contact-type energy surfaces in R^4](https://dynsustech.github.io/seminars/20231012/). Speaker: Pedro Salomão. Oct. 12, 2023. Time & location: Oct. 12, 2023, 14.00-16.00, 233B, International Center for Mathematics.
