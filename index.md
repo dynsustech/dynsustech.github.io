@@ -1,4 +1,4 @@
----
+![image](https://github.com/dynsustech/dynsustech.github.io/assets/143706327/f70f3d32-2044-474a-a3c4-75598e10880d)---
 ---
 
 # SUSTech Dynamics
@@ -6,6 +6,9 @@
 Here at [SUSTech](https://www.sustech.edu.cn/), we have a strong and active group working in several disciplines related to the theory of Dynamical Systems, including Ergodic Theory, Partially Hyperbolic Dynamics and Symplectic Dynamics. At present, we have 4 professors ([Jana Hertz](https://dynsustech.github.io/members/Jana-Hertz.html), [Raul Ures](https://dynsustech.github.io/members/Raul-Ures.html), [Pedro Salomão](https://dynsustech.github.io/members/Pedro-Salomao.html) and [Yiwei Zhang](https://dynsustech.github.io/members/Raul-Ures.html)), working with Postdocs, visiting scholars, PhD. students, Master students and undergraduates. We hold [seminars](https://dynsustech.github.io/seminars/) regularly, inviting mathematicians from all over the world.
 
 ## News
+
+- Mini course: Renormalization: Masur and Veech solution to Keane conjecture and Moreira--Yoccoz solution to Palis conjecture. Prof. Carlos Matheus Silva Santos. [Details](https://dynsustech.github.io/minicourse/renormalization)
+
 
 - # [2nd Joint Meeting in Mathematics (Hong Kong University-Shenzhen International Center for Mathematics)](https://dynsustech.github.io/seminars/2ndjointmeeting/)
   Venue: SICM Lecture Hall（Room 240A,Taizhou Hall）
