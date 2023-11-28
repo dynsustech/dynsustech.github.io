@@ -1,6 +1,40 @@
+- title: Central Shadowing
+  subtitle: Sankhadip Chakraborty
+  group: 
+  image: seminars/20231116/20231116-2.jpg
+  link: https://dynsustech.github.io/seminars/20231116-2/
+  description: Nov 16, 2023, 14.30-15.30, M1001, College of Science Building
+  tags:
+
+
+
+
+
+- title: Exponential Acceleration in a Fermi Accelerator
+  subtitle: Prof. Jing Zhou, Great Bay University
+  group: 
+  image: seminars/20231116/20231116-1.jpg
+  link: https://dynsustech.github.io/seminars/20231116-1/
+  description: Nov 16, 2023, 10.30-11.30, M1001, College of Science Building
+  tags:
+  
+  
+  
+  
+  - title: Multiple recurrence with weights
+  subtitle: Ryo Moore
+  group: 
+  image: seminars/20231109/20231109.jpg
+  link: https://dynsustech.github.io/seminars/20231019/
+  description: Nov 9, 2023, 14.30-15.30, M4009, College of Science Building
+  tags:
+
+
+
+
 - title: Dynamical Lagrange and Markov spectra
   subtitle: Harold Erazo
-  group: featured
+  group: 
   image: seminars/20231019/20231019.jpg
   link: https://dynsustech.github.io/seminars/20231019/
   description: Oct. 19, 2023, 15.00-16.00, M4009, College of Science Building
@@ -13,7 +47,7 @@
 
 - title: Some Dynamical and Topological Invariants for symplectic diffeomorphisms
   subtitle: Prof Zhihong Xia, Northwestern University
-  group: featured
+  group: 
   image: seminars/20231018/20231018.jpg
   link: https://dynsustech.github.io/seminars/20231018/
   description: Oct. 18, 2023, 15.00-16.00, M1001, College of Science Building
@@ -23,7 +57,7 @@
 
 - title: Transverse foliations for unbounded contact-type energy surfaces in R^4
   subtitle: Pedro Salomão
-  group: featured
+  group: 
   image: seminars/20231012/20231012.jpg
   link: https://dynsustech.github.io/seminars/20231012/
   description: Oct. 12, 2023, 14.00-16.00, 233B, International Center for Mathematics.
