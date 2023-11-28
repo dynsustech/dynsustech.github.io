@@ -1,5 +1,4 @@
 ---
----
 
 # SUSTech Dynamics
 
