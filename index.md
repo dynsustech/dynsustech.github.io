@@ -1,4 +1,4 @@
-![image](https://github.com/dynsustech/dynsustech.github.io/assets/143706327/f70f3d32-2044-474a-a3c4-75598e10880d)---
+---
 ---
 
 # SUSTech Dynamics
