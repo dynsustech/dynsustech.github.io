@@ -7,6 +7,15 @@ Here at [SUSTech](https://www.sustech.edu.cn/), we have a strong and active grou
 
 ## News
 
+- Dynamical Systems Seminar: [Topological entropy of partially hyperbolic systems with multi 1-D centers](https://dynsustech.github.io/seminars/20231129/) Speaker: Dr. Yuntao Zang, Soochow University, Nov 29, 2023, 10.00-11.00, M4009, College of Science Building
+
+- Intersection Seminar: [Central Shadowing](https://dynsustech.github.io/seminars/20231116-2/) Speaker: Sankhadip Chakraborty. Nov. 16, 2023, 14.30-15.30, M4009, College of Science Building
+
+
+- Dynamical Systems Seminar: [Exponential Acceleration in a Fermi Accelerator](https://dynsustech.github.io/seminars/20231116-1/) Speaker: Prof. Jing Zhou, Great Bay University. November 16 2023, 10:30-11:30, M1001, College of Science Building
+
+- Intersection Seminar: [Multiple recurrence with weights](https://dynsustech.github.io/seminars/20231109/) Speaker: Ryo Moore. Nov. 9, 2023, 14.30-15.30, M4009, College of Science Building
+
 - Mini course: Renormalization: Masur and Veech solution to Keane conjecture and Moreira--Yoccoz solution to Palis conjecture. Prof. Carlos Matheus Silva Santos. [Details](https://dynsustech.github.io/minicourse/renormalization)
 
 
