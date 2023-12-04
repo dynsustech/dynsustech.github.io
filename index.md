@@ -6,6 +6,7 @@ Here at [SUSTech](https://www.sustech.edu.cn/), we have a strong and active grou
 
 ## News
 
+- Dynamical Systems Seminar: [Non-existence of stable intersections of C1-regular Cantor sets](https://dynsustech.github.io/seminars/20231205/). Speaker: Prof.Carlos Gustavo Moreira, IMPA. December 5,12,14,2023,14:00-15:30, M1001, College of Science Building
 - Dynamical Systems Seminar: [Topological entropy of partially hyperbolic systems with multi 1-D centers](https://dynsustech.github.io/seminars/20231129/) Speaker: Dr. Yuntao Zang, Soochow University, Nov 29, 2023, 10.00-11.00, M4009, College of Science Building
 
 - Intersection Seminar: [Central Shadowing](https://dynsustech.github.io/seminars/20231116-2/) Speaker: Sankhadip Chakraborty. Nov. 16, 2023, 14.30-15.30, M4009, College of Science Building
