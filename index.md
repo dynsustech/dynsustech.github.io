@@ -6,7 +6,7 @@ Here at [SUSTech](https://www.sustech.edu.cn/), we have a strong and active grou
 
 ## News
 
-- Intersection Seminar: [On the denseness of finitude of sinks](https://dynsustech.github.io/seminars/20231207/) Speaker: Prof.Carlos Gustavo Moreira, IMPA. Dec. 07, 2023, 14.30 Room 233B of the International Center of Mathematics
+- Intersection Seminar: [On the denseness of finitude of sinks](https://dynsustech.github.io/seminars/20231207/) Speaker: Prof.Carlos Gustavo Moreira, IMPA. Dec. 07, 2023, 14.30 Room 233B of the International Center for Mathematics
 
 - Dynamical Systems Seminar: [Non-existence of stable intersections of C1-regular Cantor sets](https://dynsustech.github.io/seminars/20231205/). Speaker: Prof.Carlos Gustavo Moreira, IMPA. December 5,12,14,2023,14:00-15:30, M1001, College of Science Building
   
