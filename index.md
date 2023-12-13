@@ -55,7 +55,7 @@ Time & location: Oct. 19, 2023, 15.00-16.00, M4009, College of Science Building
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/papers.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -78,7 +78,7 @@ Time & location: Oct. 19, 2023, 15.00-16.00, M4009, College of Science Building
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/seminar.jpg"
   link="seminars"
   title="Our Seminars"
   flip=true
@@ -102,7 +102,7 @@ Time & location: Oct. 19, 2023, 15.00-16.00, M4009, College of Science Building
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/members.jpg"
   link="team"
   title="Our Team"
   text=text
