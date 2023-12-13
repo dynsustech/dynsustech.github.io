@@ -1,6 +1,12 @@
+- title: Symbolic dynamics for large non-uniform hyperbolic sets of three dimensional flow
+  subtitle: Prof. Yuri Lima
+  image: images/sustech.jpg
+  link: https://dynsustech.github.io/seminars/20231214/
+  description: December 14, 10.30-11.30, M1001, College of Science Building.
+
 
 - title: On the denseness of finitude of sinks
-  subtitle: Prof.Carlos Gustavo Moreira, IMPA
+  subtitle: Prof. Carlos Gustavo Moreira, IMPA
   group: 
   image: images/sustech.jpg
   link: https://dynsustech.github.io/seminars/20231207/
@@ -10,7 +16,7 @@
 
 
 - title: Non existence of stable intersections of C1-regular Cantor sets
-  subtitle: Prof.Carlos Gustavo Moreira, IMPA
+  subtitle: Prof. Carlos Gustavo Moreira, IMPA
   group: 
   image: seminars/20231205/20231205.jpg
   link: https://dynsustech.github.io/seminars/20231205/
