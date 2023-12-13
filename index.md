@@ -6,6 +6,8 @@ Here at [SUSTech](https://www.sustech.edu.cn/), we have a strong and active grou
 
 ## News
 
+- Intersection Seminar: [Symbolic dynamics for large non-uniform hyperbolic sets of three dimensional flow](https://dynsustech.github.io/seminars/20231214/) Speaker: Prof. Yuri Lima, 2023. Dec. 14 Thursday. 10.30 am M1001 Math Department.
+
 - Intersection Seminar: [On the denseness of finitude of sinks](https://dynsustech.github.io/seminars/20231207/) Speaker: Prof.Carlos Gustavo Moreira, IMPA. Dec. 07, 2023, 14.30 Room 233B of the International Center for Mathematics
 
 - Dynamical Systems Seminar: [Non-existence of stable intersections of C1-regular Cantor sets](https://dynsustech.github.io/seminars/20231205/). Speaker: Prof.Carlos Gustavo Moreira, IMPA. December 5,12,14,2023,14:00-15:30, M1001, College of Science Building
