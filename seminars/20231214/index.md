@@ -10,7 +10,7 @@ footer-dark: false
 redirect_from:
   - accolades
 ---
-
+Speaker: Prof. Yuri Lima
 2023. Dec. 14 Thursday. 10.30 am M1001 Math Department.
 ![poster](20231214.jpg)
 
